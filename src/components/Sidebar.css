@@ -1,0 +1,5 @@
+.sidebar-open {
+    width: 100% !important;
+    min-width: 100% !important;
+    border: 1px solid;
+}
